@@ -6,7 +6,7 @@ from webapp2 import Response
 from clustering import reduce_colors
 from StringIO import StringIO
 from poster.encode import multipart_encode
-from model import DBSessionBuilder
+from model import DBSessionBuilder, User
 
 TELEGRAM_API_TOKEN = "230551380:AAGqv2bMACh8AG3lwYRnSt5Wchi__KOGOCw"
 
