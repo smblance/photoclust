@@ -1,0 +1,6 @@
+webapp2==2.5.2
+python-telegram-bot==4.1.1
+skimage==0.12.3
+sklearn==0.17.1
+poster==0.8.1
+sqlalchemy==1.0.13

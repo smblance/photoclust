@@ -1,0 +1,1 @@
+web: gunicorn udaciousmap.wsgi --log-file -
